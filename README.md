@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @namtthan
+- 👋 Hi, I’m @namthan
 - 👀 I’m interested in biomedical engineering, specifically organ-on-a-chip and microbiome research
 - 🌱 I’m currently learning bioinformatics and python
 - 💞️ I’m looking to collaborate on bioinformatics and organ-on-a-chip research
-- 📫 Reach me at nam . than @ utexas . edu
+- 📫 Reach me at thann2 @ ccf . org
 
 <!---
 namtthan/namtthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

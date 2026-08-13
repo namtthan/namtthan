@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @namthan
+- 👋 Hi, I’m @namtthan
 - 👀 I’m interested in biomedical engineering, specifically organ-on-a-chip and microbiome research
 - 🌱 I’m currently learning bioinformatics and python
 - 💞️ I’m looking to collaborate on bioinformatics and organ-on-a-chip research
